@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diane-Her
-- 👀 I’m interested in Data management, Webscrapping, Statistics, Data visualization
+- 👀 I’m interested in Data management, Statistics, Data visualization
 - 🌱 I’m currently learning R & Python
 - 💞️ I’m looking to collaborate on projects that use data to make interesting discoveries
 - 📫 How to reach me deidherrera@gmail.com

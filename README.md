@@ -1,20 +1,25 @@
-✨ Hi there, I’m @Diane-Her! 👋
-<div align="center"> <img src="https://user-images.githubusercontent.com/0000000/banner.png" alt="Banner personalizado" width="800"> </div>
+# ✨ Hi there, I’m @Diane-Her! 👋
 
-# 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-## 🧰 Tools I Work With:
+### 🧰 Tools I Work With:
 **Programming Languages:** Python 🐍, SQL 💾, R 📊
+
 **Databases:** PostgreSQL, MySQL, BigQuery
+
 **Visualization Tools:** Tableau, Metabase, Matplotlib
+
 **Others:** Jupyter Notebook, VS Code, PowerBI
 
-# 🌟 About Me
+## 🌟 About Me
 
-## 👀 I’m interested in:
+### 👀 I’m interested in:
 -**Data Management** 📂
+
 -**Statistics** 📊
+
 -**Data Visualization** 🎨
+
 
 ## 🌱 Currently learning:
 **Python** 🐍
@@ -27,11 +32,15 @@ I am a science graduate, but I found my love for data management tools while wor
 
 ## 💕 Some of my hobbies:
 Reading 📚
+
 Watching anime and miniseries 🎥
+
 Play videogames 🎮 
+
 
 ## 📫 How to Reach Me
 Email: deidherrera@gmail.com
+
 LinkedIn: www.linkedin.com/in/diana-herrera-aa7aa6197
 
 ## 💡 Contributions Welcome!

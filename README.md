@@ -1,4 +1,16 @@
 # ✨ Hi there, I’m @Diane-Her! 👋
+Biotechnologist and M.S. in Natural Resources with 7+ years of experience 
+in applied science, molecular analysis and data interpretation.
+
+I'm currently developing data analysis skills with the goal of applying 
+them to applied science and research projects — bridging the gap between 
+laboratory data and actionable insights.
+
+## 🔬 Background
+- Molecular biology & aquatic microbiology research
+- Molecular diagnostics (PCR, RT-qPCR, DNA extraction)
+- Quality control & ISO 9001-2015
+- Biostatistics & experimental design
 
 ## 🛠️ Skills & Technologies
 
@@ -7,9 +19,9 @@
 
 **Databases:** PostgreSQL, MySQL, BigQuery
 
-**Visualization Tools:** Tableau, Metabase, Matplotlib
+**Visualization Tools:** Power BI, Tableau, Metabase, Matplotlib
 
-**Others:** Jupyter Notebook, VS Code, PowerBI
+**Environment:** Jupyter Notebook · VS Code · RStudio
 
 ## 🌟 About Me
 
@@ -20,22 +32,24 @@
 
 -**Data Visualization** 🎨
 
+## 📂 Projects
+These repositories document my learning process in data analytics, 
+with a focus on building transferable skills for scientific data analysis.
 
-## 🌱 Currently learning:
-**Python** 🐍
+| Project | Tools | Description |
+|--------|-------|-------------|
+| [Health Systems Analysis](https://github.com/Diane-Her/HealthAnalysis-PostgreSQL-Metabase) | PostgreSQL · Metabase | Comparative analysis of Mexico vs Denmark health systems using WHO 2024 data |
+| [Monthly Sales Analysis](https://github.com/Diane-Her/MonthlySales-Analysis-Python) | Python · Jupyter | Reusable script for periodic sales analysis |
+| [Data Management](https://github.com/Diane-Her/Data-management-MySQL-Workbench-CMD) | MySQL | Import, validation, cleaning and export methods |
+| [Statistical Analysis](https://github.com/Diane-Her/DataAnalysis-RStudio) | R · RStudio | Complete statistical study with visualization and report |
+| [Database Design](https://github.com/Diane-Her/Twitter-DataBase-Simulation-) | MySQL | Database creation with PK, FK, triggers and stored procedures |
+| [Cost of Living](https://github.com/Diane-Her/Cost-of-living-Excel) | Excel | Interactive dashboard and findings report |
 
-## 💞️ Looking to collaborate on:
-Projects that use data to make interesting discoveries and provide impactful solutions.
+---
 
-## ⚡ Fun fact:
-I am a science graduate, but I found my love for data management tools while working on my degree theses.
-
-## 💕 Some of my hobbies:
-Reading 📚
-
-Watching anime and miniseries 🎥
-
-Play videogames 🎮 
+## 📫 Contact
+- Email: deidherrera@gmail.com  
+- LinkedIn: [diana-herrera](https://www.linkedin.com/in/diana-herrera-aa7aa6197)
 
 
 ## 📫 How to Reach Me
